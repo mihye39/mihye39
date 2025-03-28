@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Mihye's%20Github&fontSize=90&fontcolor=#7E41D9)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Mihye's%20Github&fontSize=90&fontcolor=7E41D9)
 
 <!--
 **mihye39/mihye39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
