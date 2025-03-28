@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=soft&height=300&section=header&text=Mihye's%20Github&fontSize=90&fontcolor=8E007E)
 
 <!--
